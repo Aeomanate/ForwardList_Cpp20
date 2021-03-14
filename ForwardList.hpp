@@ -1,5 +1,5 @@
 //
-// Created by Lyosha12 on 14.03.2021.
+// Created by Aeomanate on 14.03.2021.
 //
 
 #ifndef MAIN_CPP_FORWARDLIST_HPP
